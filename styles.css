@@ -1,0 +1,14 @@
+.flex{
+    display: flex;
+    width: 100vw;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: center;
+    
+}
+img {
+    width: 300px;
+}
+h1{
+    text-align: center;
+}
